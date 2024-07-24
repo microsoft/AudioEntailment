@@ -17,6 +17,15 @@ The .csv are located under `data` folder
 
 The original captions and the corresponding audio files for AudioCaps and Clotho can be found here: [AudioCaps](https://github.com/cdjkim/audiocaps), [Clotho](https://zenodo.org/record/4783391)
 
+## Supervised leaderboard
+The metric used is F1 score
+|                        Model                       |    CLE   | 
+|----------------------------------------------------|----------|
+| [MS CLAP 23](https://github.com/microsoft/CLAP)    |  0.8336  | 
+| [Pengi-enc](https://github.com/microsoft/Pengi)    |  0.7642  | 
+| [LAION CLAP](https://github.com/LAION-AI/CLAP)     |  0.7445  | 
+| [MS CLAP 22](https://github.com/microsoft/CLAP)    |  0.7118  | 
+
 ## Zero-Shot leaderboard
 The metric used is F1 score
 |                        Model                       |    ACE   |    CLE   |    Avg   |
@@ -32,14 +41,6 @@ The metric used is F1 score
 | [Qwen-A](https://github.com/QwenLM/Qwen-Audio)     |  0.3117  |  0.3219  |  0.3168  |
 | [Pengi-enc](https://github.com/microsoft/Pengi)    |  0.2888  |  0.3039  |  0.2964  |
 | [Pengi-noenc](https://github.com/microsoft/Pengi)  |  0.2216  |  0.2045  |  0.2131  |
-
-## Supervised leaderboard
-|                        Model                       |    CLE   | 
-|----------------------------------------------------|----------|
-| [MS CLAP 23](https://github.com/microsoft/CLAP)    |  0.8336  | 
-| [Pengi-enc](https://github.com/microsoft/Pengi)    |  0.7642  | 
-| [LAION CLAP](https://github.com/LAION-AI/CLAP)     |  0.7445  | 
-| [MS CLAP 22](https://github.com/microsoft/CLAP)    |  0.7118  | 
 
 ## Citation
 ```
