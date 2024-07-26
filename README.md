@@ -1,5 +1,5 @@
 # Audio Entailment: Assessing Deductive Reasoning for Audio Understanding
-This repository contains CLE and ACE audio entailment datasets from [Audio Entailment: Assessing Deductive Reasoning for Audio Understanding](https://arxiv.org/abs/2309.07372). The data is provided in a .csv format. 
+This repository contains CLE and ACE audio entailment datasets from [Audio Entailment: Assessing Deductive Reasoning for Audio Understanding](https://arxiv.org/abs/2407.18062). The data is provided in a .csv format. 
 ![image](https://github.com/user-attachments/assets/e24991c6-4db1-49e8-8bf6-5248fbbc7780)
 
 ## News
@@ -47,7 +47,7 @@ The metric used is F1 score
 @article{audioentail,
   title={Audio Entailment: Assessing Deductive Reasoning for Audio Understanding},
   author={Soham Deshmukh and Shuo Han and Hazim Bukhari and Benjamin Elizalde and Hannes Gamper and Rita Singh and Bhiksha Raj},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2407.18062},
   year={2024}
 }
 ```
