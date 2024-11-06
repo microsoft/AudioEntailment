@@ -3,6 +3,7 @@ This repository contains CLE and ACE audio entailment datasets from [Audio Entai
 ![image](https://github.com/user-attachments/assets/e24991c6-4db1-49e8-8bf6-5248fbbc7780)
 
 ## News
+[Nov 24] Data files are released
 [Jul 24] Data is under review with a tentative release date of October 2024
 
 ## Structure
